@@ -77,7 +77,7 @@ File hasil build akan tersimpan.
 - Hapus tugas dengan klik icon tempat sampah.
 - Tugas langsung terhapus dari daftar.
 
-## 🗄️ Storage
+## Storage
 
 Aplikasi menggunakan **LocalStorage** untuk menyimpan data:
 - Data tersimpan di browser pengguna.
